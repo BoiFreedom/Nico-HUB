@@ -12,7 +12,7 @@ tab.newButton(
 )
 
 tab.newButton(
-    "MM2 DUPER🔥✅",
+    "PS99 VISUAL✅🔥",
     "Status: 🟢 2MINUTES TO LOAD ):<",
     function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/BoiFreedom/V2/main/Symphony%20Hub"))()
