@@ -1,7 +1,7 @@
 local DrRayLibrary =
     loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
 local window = DrRayLibrary:Load("Nico Hub👽🟢", "Default")
-local tab = DrRayLibrary.newTab("Scripts", "ImageIdHere")
+local tab = DrRayLibrary.newTab("Scripts", "rbxassetid://6768917255")
 
 tab.newButton(
     "MM2 TRADE SCAM V1🔥✅",
